@@ -60,6 +60,12 @@ Se ha realizado un estudio de accesibilidad para comprobar que la página permit
 
 Para este estudio se han hecho uso de los plugins WAVE Web Accessibility Evaluation Tool, Accessibility Insights for Web y Funkify.
 
+<p float="left">
+<img src="Análisis/wave_logo.jpg" width="200"/>
+<img src="Análisis/accessibility_logo.png" width="200"/> 
+<img src="Análisis/funkify_logo.png" width="200"/> 
+</p>
+
 El mayor problema encontrado señalado tanto por WAVE como por Accessibility Insights for Web es la falta de constraste. Sólo basta con desaturar la página para darnos cuenta de esto:
 
 <p float="left">
