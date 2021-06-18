@@ -11,7 +11,7 @@ Nos encontramos ante la página web de una empresa de divulgación de enventos c
 
 La página se ha mantenido con un diseño bastante obsoleto desde 2004 hasta 2018, en el año 2019 le dieron un nuevo lavado de cara. En este rediseño la revista que en años atrás poseía mayor protagonismo ha acabado en un segundo plano, pasándole el protagonismo a la muestra de eventos culturales y compra de entradas online. Esto último lo considero un acierto ya que actualmente en comparación a hace unos años no se leen a penas revistas y se prefiere buscar directactamente la información de un evento en concreto.
 
-A continuación se realizará un análisis de este nuevo diseño comprobando si se la experiencia de usuario ha sido mejorada y se procederá a realizar un rediseño de la página en base a lo analizado.
+A continuación se realizará un análisis de este nuevo diseño comprobando si la experiencia de usuario ha sido mejorada y se procederá a realizar un rediseño de la página en base a lo analizado.
 
 ### 1.ANÁLISIS
 
