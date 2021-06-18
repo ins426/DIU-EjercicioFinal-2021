@@ -106,6 +106,9 @@ El objetivo que persigue esta página es promover el acceso a la cultura y conve
 ### ARQUITECTURA DE INFORMACIÓN
 
 #### Sitemap
+<p float="left">
+<img src="Rediseño/sitemap.jpg" width="1000"/>
+</p>
 
 #### Labelling
 
