@@ -15,7 +15,7 @@ A continuación se realizará un análisis de este nuevo diseño comprobando si 
 ### Usability Review
 Para la realización del análisis del sitio web se ha optado por hacer un Usability Review con el cual se ha "diseccionado" la página para extraer las carencias y fallos que presenta ésta, así como sus puntos fuertes. 
 
-De éste Usability Review hemos obtenido que la puntuación final de la página ha sido de 62 puntos (Moderado) y hemos comprobado que Yuzin presenta múltiples fallos, siendo los principales los siguientes: 
+De este Usability Review hemos obtenido que la puntuación final de la página ha sido de 62 puntos (Moderado) y hemos comprobado que Yuzin presenta múltiples fallos, siendo los principales los siguientes: 
 
 - No destaca sus funcionalidades principales y da mayor relevancia a secciones secundarias como los articulos de opinión.
 - No es posible hacerse miembro del club a no ser que se pase por el proceso de compra de entradas de un evento.
