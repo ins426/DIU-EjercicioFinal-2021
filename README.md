@@ -1,7 +1,7 @@
 # DIU: EJERCICIO FINAL
 # PARTE I: MI EXPERIENCIA UX
 
-# PARTE II: Caso de estudio. Web YUZIN
+# PARTE II: Caso de estudio. [Web YUZIN](https://yuzin.com/)
 
 ## INTRODUCCIÓN
 Nos encontramos ante la página web de una empresa de divulgación de enventos culturales en Andalucía llamada YUZIN. Esta empresa explica que tiene como objetivo promover e incentivar el consumo de la cultura local convirtiéndose en la unión entre el público y los agentes culturales. Para ello YUZIN a través de su revista mensual o con un listado muestra al usuario los próximos eventos culturales (conciertos, teatro, poesía, visitas guiadas a monumentos...) de las ciudades en las que trabaja la empresa, ofreciendo a sus usuarios ventajas como descuentos o acceso a actividades exclusivas si se suscriben a su club. Además, permite a los promotores culturales subir sus eventos y vender las entradas en la página web.
@@ -12,5 +12,7 @@ A continuación se realizará un análisis de este nuevo diseño comparándolo c
 
 ### 1.ANÁLISIS
 ### 1.a Competitive Analysis
+Primeramente para el análisis de 
 
 ### 1.b Usabily Review
+Se ha optado 
