@@ -25,11 +25,17 @@ De este Usability Review hemos obtenido que la puntuación final de la página h
 - El menú es poco intutivo para un usuario novato.
 - Una de las dos opciones de búsqueda ofrecidas (búsqueda por palabras clave) no cumple con su funcionalidad. 
 - No ofrece ningún tour por la página y no es fácil de encontrar una sección de ayuda, pues el FAQ ofrecido se encuentra en el footer y éste sólo resuelve dudas sobre la empresa. Si se necesita ayuda sobre la página hay que acceder a la sección de "Contacta" y rellenar un formulario, escribir un email o llamar por teléfono a uno de los números de contacto. Todo lo anterior resulta poco intuitivo y demasiado complejo para una simple duda sobre la página.
-- No se devuelve un feedback de la navegación al usuario (no se destaca la sección en la que el usuario se encuentra ni se proporciona la ruta de navegación).
+- EL feedback es algo pobre, pues los errores devueltos no especifican claramente qué ha falla y en cuanto a la navegación por la página no se destaca la sección en la que el usuario se encuentra ni se proporciona la ruta de navegación.
 - Añade elementos que no tienen ninguna función como al final de la página principal con título "Actualidad Cultural".
+- No redimensiona correctamente con la ventana del navegador.
 
 A pesar de estos defectos, también se ha encontrado que Yuzin destaca positivamente por lo siguiente:
--
+- La página web es fácil de encontrar en los buscadores.
+- La interfaz es sencilla y no está saturada.
+- Presenta un buen rendimiento, la página carga rápido.
+- Se priorizan los eventos destacados en las búsquedas de eventos.
+- Los formularios utilizan los campos de entrada apropiados.
+- La fuente elegida se lee fácilmente y presenta un buen contraste.
 
 Para acceder al documento del Usability Review pulse [aquí](Análisis/Usability-review-Yuzin.pdf).
 
