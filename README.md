@@ -40,6 +40,21 @@ A pesar de estos defectos, también se ha encontrado que Yuzin destaca positivam
 
 Para acceder al documento del Usability Review pulse [aquí](Análisis/Usability-review-Yuzin.pdf).
 
+### Accesibilidad
+Se ha realizado un estudio de accesibilidad para comprobar que la página permite el acceso a todo el público a pesar de padecer discapacidades como el daltonismo. 
 
+Para este estudio se han hecho uso de los plugins WAVE Web Accessibility Evaluation Tool, Accessibility Insights for Web y Funkify.
+
+El mayor problema encontrado señalado tanto por WAVE como por Accessibility Insights for Web es la falta de constraste. Sólo basta con desaturar la página para darnos cuenta de esto:
+
+<p float="left">
+<img src="Análisis/wave_1.png" width="600"/>
+<img src="Análisis/wave_4.png" width="600"/> 
+<img src="Análisis/accessibility_insights.png" width="600"/> 
+</p>
+
+Probando la opción "Trembling Trevor" de Funkify se comprueba que resulta muy difícil hacer click sobre una opción o con "Blurry Bianca" se comprueba que para personas miopes los textos con un tamaño de fuente pequeña son muy complicados de leer.
+
+Sumado a estos problemas, la página no presenta ninguna sección de información sobre Accesibilidad. Por esto se deduce que en este sitio web no se tiene en cuenta la accesibilidad para todos los públicos.
 
 
