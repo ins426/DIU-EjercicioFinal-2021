@@ -28,6 +28,7 @@ De este Usability Review hemos obtenido que la puntuación final de la página h
 - EL feedback es algo pobre, pues los errores devueltos no especifican claramente qué ha falla y en cuanto a la navegación por la página no se destaca la sección en la que el usuario se encuentra ni se proporciona la ruta de navegación.
 - Añade elementos que no tienen ninguna función como al final de la página principal con título "Actualidad Cultural".
 - No redimensiona correctamente con la ventana del navegador.
+- El constrate elegido de amarillo sobre blanco no es adecuado.
 
 A pesar de estos defectos, también se ha encontrado que Yuzin destaca positivamente por lo siguiente:
 - La página web es fácil de encontrar en los buscadores.
@@ -35,7 +36,7 @@ A pesar de estos defectos, también se ha encontrado que Yuzin destaca positivam
 - Presenta un buen rendimiento, la página carga rápido.
 - Se priorizan los eventos destacados en las búsquedas de eventos.
 - Los formularios utilizan los campos de entrada apropiados.
-- La fuente elegida se lee fácilmente y presenta un buen contraste.
+- La fuente elegida se lee fácilmente.
 
 Para acceder al documento del Usability Review pulse [aquí](Análisis/Usability-review-Yuzin.pdf).
 
