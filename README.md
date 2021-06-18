@@ -75,6 +75,9 @@ Sumado a estos problemas, la página no presenta ninguna sección de informació
 ## 2.REDISEÑO
 
 ### PROPUESTA DE VALOR
+Se quiere desarrollar una página web sobre una empresa de divulgación de evento culturales. La página ofrecerá al usuario la consulta y búsqueda por filtrado de próximos eventos culturales, así como la consulta de espacios culturales en las distintas ciudades en las que trabaja la empresa. El usuario también tendrá la posibilidad de suscribirse al club de la empresa para disfrutar de descuentos y acceso a actividades exclusivas, para ello se dispondrá de 3 tipos de suscripciones (cuota mensual, cuota trimestral, cuota semestral y cuota anual). Además, se dispondrá de dos funcionalidades secundarias, la primera es la publicación de artículos de opinión de expertos sobre distintos temas culturales y la segunda es la descarga de la revista mensual de la empresa sobre eventos culturales.
+
+El objetivo que persigue esta página es promover el acceso a la cultura y convertirse en la unión entre el público y los agentes culturales.
 
 ### TASK ANALYSIS
 
