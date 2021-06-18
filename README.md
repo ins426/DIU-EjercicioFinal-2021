@@ -28,7 +28,7 @@ La página se ha mantenido con un diseño bastante obsoleto desde 2004 hasta 201
 
 A continuación se realizará un análisis de este nuevo diseño comprobando si la experiencia de usuario ha sido mejorada y se procederá a realizar un rediseño de la página en base a lo analizado.
 
-### 1.ANÁLISIS
+## 1.ANÁLISIS
 
 ### Usability Review
 Para la realización del análisis del sitio web se ha optado por hacer un Usability Review con el cual se ha "diseccionado" la página para extraer las carencias y fallos que presenta ésta, así como sus puntos fuertes. 
@@ -72,4 +72,18 @@ Probando la opción "Trembling Trevor" de Funkify se comprueba que resulta muy d
 
 Sumado a estos problemas, la página no presenta ninguna sección de información sobre Accesibilidad. Por esto se deduce que en este sitio web no se tiene en cuenta la accesibilidad para todos los públicos.
 
+## 2.REDISEÑO
 
+### PROPUESTA DE VALOR
+
+### TASK ANALYSIS
+
+### ARQUITECTURA DE INFORMACIÓN
+
+#### Sitemap
+
+#### Labelling
+
+#### Prototipo Lo-FI Wireframe
+
+## 3.CONCLUSIÓN
