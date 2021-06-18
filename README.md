@@ -1,4 +1,7 @@
 # DIU: EJERCICIO FINAL
+
+Autora: Inés Nieto Sánchez
+
 # PARTE I: MI EXPERIENCIA UX
 
 # PARTE II: Caso de estudio. [Web YUZIN](https://yuzin.com/)
@@ -21,9 +24,12 @@ De este Usability Review hemos obtenido que la puntuación final de la página h
 - No es posible hacerse miembro del club a no ser que se pase por el proceso de compra de entradas de un evento.
 - El menú es poco intutivo para un usuario novato.
 - Una de las dos opciones de búsqueda ofrecidas (búsqueda por palabras clave) no cumple con su funcionalidad. 
-- No es fácil de encontrar una sección de ayuda, pues el FAQ ofrecido se encuentra en el footer y éste sólo resuelve dudas sobre la empresa. Si se necesita ayuda sobre la página hay que acceder a la sección de "Contacta" y rellenar un formulario, escribir un email o llamar por teléfono a uno de los números de contacto. Todo lo anterior resulta poco intuitivo y demasiado complejo para una simple duda sobre la página.
+- No ofrece ningún tour por la página y no es fácil de encontrar una sección de ayuda, pues el FAQ ofrecido se encuentra en el footer y éste sólo resuelve dudas sobre la empresa. Si se necesita ayuda sobre la página hay que acceder a la sección de "Contacta" y rellenar un formulario, escribir un email o llamar por teléfono a uno de los números de contacto. Todo lo anterior resulta poco intuitivo y demasiado complejo para una simple duda sobre la página.
 - No se devuelve un feedback de la navegación al usuario (no se destaca la sección en la que el usuario se encuentra ni se proporciona la ruta de navegación).
 - Añade elementos que no tienen ninguna función como al final de la página principal con título "Actualidad Cultural".
+
+A pesar de estos defectos, también se ha encontrado que Yuzin destaca positivamente por lo siguiente:
+-
 
 Para acceder al documento del Usability Review pulse [aquí](Análisis/Usability-review-Yuzin.pdf).
 
