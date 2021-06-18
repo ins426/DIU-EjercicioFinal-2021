@@ -86,6 +86,22 @@ Se quiere desarrollar una página web sobre una empresa de divulgación de event
 El objetivo que persigue esta página es promover el acceso a la cultura y convertirse en la unión entre el público y los agentes culturales.
 
 ### TASK ANALYSIS
+#### User Task Matrix
+
+| GRUPO DE USUARIOS             | Usuario no miembro | Usuario miembro | Organizador de eventos |
+|-------------------------------|--------------------|:---------------:|:----------------------:|
+|        Consultar evento       |          H         |        H        |            L           |
+| Consultar espacios culturales |          M         |        M        |            L           |
+|         Buscar evento         |          H         |        H        |            L           |
+|    Buscar espacio cultural    |          M         |        M        |            L           |
+|         Iniciar Sesión        |          L         |        H        |            L           |
+|        Hacerse miembro        |          L         |        -        |            L           |
+|       Descargar revista       |          L         |        L        |            L           |
+|          Subir evento         |          L         |        L        |            H           |
+|   Leer Artículos de Opinión   |          M         |        M        |            M           |
+|    Compartir Evento en RRSS   |          M         |        M        |            L           |
+|       Comprar Entradas        |          H         |        H        |            L           |
+|  Suscribirse a la Newsletter  |          L         |        L        |            L           |
 
 ### ARQUITECTURA DE INFORMACIÓN
 
