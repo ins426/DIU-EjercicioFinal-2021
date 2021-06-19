@@ -140,6 +140,10 @@ Para entender mejor el Sitemap y la estructura del nuevo diseño de la página w
 | FAQ                    | A través de esta etiqueta encontrada en la sección Sobre Nosotros contendrá preguntas frecuentes sobre la página.                                                                                                                                                                                    |
 | Formulario de Contacto | A través de esta etiqueta el usuario accederá a un formulario a través del cual podrá mandar un email a la página.                                                                                                                                                                                   |                                                                                                                                
 #### Prototipo Lo-FI Wireframe
+En este prototipo Lo-FI Wireframe se ha querido mantener la idea minimalista original de la web. Durante el análisis de la página se comentó que se daba mayor importancia a los artículos de opinión que a los propies eventos por lo que en el prototipo hemos cambiado esto mostrando los eventos destacados en la la página de inicio antes que los artículos aplicando en ambos paginación. Además se comentaba la falta de simetría en el catálogo de eventos, esto se ha arreglado centrando el listado de las imágenes correctamente. El extenso footer se ha reducido eliminando toda la información extra la cual ahora se encontraría en la sección Sobre Nosotros. 
+ 
+Con este prototipo vemos que la web es muy mejorable en cuanto a estructura y jerarquía, además de que visualmente se consigue mayor comodidad para el usuario.
+
 <p float="left">
 <img src="Rediseño/wireframe_1.jpg" width="600"/>
 <img src="Rediseño/wireframe_2.jpg" width="600"/>
