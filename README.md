@@ -109,7 +109,7 @@ Se ha decidido realizar una Task Matrix para indentificar y averiguar la priorid
 #### Sitemap
 Con los resultados obtenidos del proceso de análisis y del Task Matrix se ha realizado el siguiente sitemap para construir la nueva estructura y jerarquía de Yuzin. He optado por agrupar elementos como la sección de eventos, espacios culturales, la descarga de la revista y los artítulos de opinión en un menú desplegable llamado Cultura. También he creado tres nuevas secciones, la primera la he llamado El Club en el que el usuario podrá acceder a las secciones de suscripción a la newsletter (ya no tendrá que bajar al footer para ello) y a la sección de hacerse miembro. La segunda sección que he creado la he llamado Sobre Nosotros donde podemos encontrar todo lo relativo a información y contacto sobre la empresa. Por último, he añadido una tercera sección de Ayuda, ya que era algo que se echa en falta en la web original.
 
-Con esto conseguimos agrupar las funcionalidades de la página, consiguiendo una estructura mejor jerarquizada y más coherente.
+A través de este sitemap conseguimos agrupar las funcionalidades de la página, consiguiendo una estructura mejor jerarquizada y más coherente.
 
 <p float="left">
 <img src="Rediseño/sitemap.jpg" width="1000"/>
