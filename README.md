@@ -140,6 +140,11 @@ Para entender mejor el Sitemap y la estructura del nuevo diseño de la página w
 | FAQ                    | A través de esta etiqueta encontrada en la sección Sobre Nosotros contendrá preguntas frecuentes sobre la página.                                                                                                                                                                                    |
 | Formulario de Contacto | A través de esta etiqueta el usuario accederá a un formulario a través del cual podrá mandar un email a la página.                                                                                                                                                                                   |                                                                                                                                
 #### Prototipo Lo-FI Wireframe
+<p float="left">
+<img src="Rediseño/wireframe_1.jpg" width="600"/>
+<img src="Rediseño/wireframe_2.jpg" width="600"/>
+<img src="Rediseño/wireframe_3.jpg" width="600"/>
+</p>
 
 ## 3.CONCLUSIONES
 A lo largo de este ejercicio hemos obtenido los fallos y puntos fuertes de Yuzin en su nuevo diseño y realizado uno nuevo en base a los resultados de este estudio. Yuzin ha mejorado considerablemente su página web pasando de un diseño de 2003 a uno más actual intentando adaptarse a los nuevas tendencias en sitios web. Sin embargo, se queda a mitad de camino de lograrlo debido a la falta de simetría, contrastes, feedback al usuario o fallos en su funcionalidad. Es por esto que requiere de un nuevo diseño en el que se de accesibilidad a todo el mundo y se mejoren todos los fallos comentados durante el ejercicio.
