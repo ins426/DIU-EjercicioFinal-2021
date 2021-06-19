@@ -116,6 +116,8 @@ A través de este sitemap conseguimos agrupar las funcionalidades de la página,
 </p>
 
 #### Labelling
+Para entender mejor el Sitemap y la estructura del nuevo diseño de la página web se ha realizado un Labelling en el que se detalla la funcionalidad de cada etiqueta:
+
 | Etiqueta               | Descripción                                                                                                                                                                                                                                                                                          |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HomePage               | Es la página de inicio, donde el usuario podrá ver los eventos destacados del mes, así como<br>los últimos artículos de opinión.                                                                                                                                                                     |
