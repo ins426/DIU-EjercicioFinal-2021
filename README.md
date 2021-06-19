@@ -87,6 +87,7 @@ El objetivo que persigue esta página es promover el acceso a la cultura y conve
 
 ### TASK ANALYSIS
 #### User Task Matrix
+Se ha decidido realizar una Task Matrix para indentificar y averiguar la prioridad de las tareas más frecuentadas por el usuario en en sitio web. Para ello se ha clasificado al usuario en tres principales tipos según sea una empresa organizadora de eventos o un simple usuario: usuario no miembro, usuario miembro y  organizador de eventos. Esto nos será de ayuda para el nuevo diseño de la página en el que tendremos que destacar y dar mayor relevancia a aquellas funciones que son más usadas por el usuario.
 
 | GRUPO DE USUARIOS             | Usuario no miembro | Usuario miembro | Organizador de eventos |
 |-------------------------------|--------------------|:---------------:|:----------------------:|
@@ -106,6 +107,9 @@ El objetivo que persigue esta página es promover el acceso a la cultura y conve
 ### ARQUITECTURA DE INFORMACIÓN
 
 #### Sitemap
+<p float="left">
+<img src="Rediseño/sitemap.jpg" width="1000"/>
+</p>
 
 #### Labelling
 
